@@ -1,0 +1,15 @@
+{
+    "replace": true,
+    "requirement": {
+        "type": "tetra:improvement",
+        "improvement": "blade/tumo"
+    },
+    "outcomes": [
+        {
+            "type": "tetra:apply_enchantments",
+            "enchantments": {
+                "minecraft:fire_aspect": 2
+              }
+        }    
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "key": "fangofthe_hound_leader",
+    "category": "bone",
+    "primary": 7,
+    "secondary": 3,
+    "tertiary": 3,
+    "durability": 200,
+    "integrityCost": 1,
+    "integrityGain": 8,
+    "magicCapacity": 1000,
+    "toolLevel": "minecraft:stone",
+    "toolEfficiency": 5,
+    "tints": {
+      "glyph": "bone_glyph",
+      "texture": "bone"
+    },
+    "effects":{
+        "baonu":1
+    },
+    "textures": [ "bone", "crude" ],
+    "material": { "items": [ "born_in_chaos_v1:fangofthe_hound_leader" ] },
+    "requiredTools": { "hammer_dig": 4 }
+  }

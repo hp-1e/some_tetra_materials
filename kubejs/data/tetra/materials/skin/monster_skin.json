@@ -1,0 +1,23 @@
+{
+    "key": "monster_skin",
+    "category": "skin",
+    "primary": 6,
+    "secondary": 3,
+    "tertiary": 6,
+    "durability": 500,
+    "integrityCost": 1,
+    "integrityGain": 5,
+    "magicCapacity": 1000,
+    "tints": {
+       "glyph": "hide_glyph",
+        "texture": "hide"
+    },
+    "effects":{
+      "huanman":1
+    },
+    "textures": [ "bone", "crude" ],
+    "material": { "items": [ "born_in_chaos_v1:monster_skin" ] },
+    "requiredTools": {
+         "cut": 3
+    }
+  }

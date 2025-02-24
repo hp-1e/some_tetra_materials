@@ -1,0 +1,23 @@
+{
+    "slots": [
+      "sword/blade"
+    ],
+    "materialSlotCount": 1,
+    "materialRevealSlot":0,
+    "rarity": "temporary",
+    "glyph": {
+      "textureX": 64,
+      "textureY": 0
+    },
+    "effects": {
+        "wuwei": 1
+      },
+    "displayType": "improvement",
+    "outcomes": [
+        {
+            "material": {
+                "items": ["born_in_chaos_v1:pile_of_skulls"]
+            }
+        }
+    ]
+  }
