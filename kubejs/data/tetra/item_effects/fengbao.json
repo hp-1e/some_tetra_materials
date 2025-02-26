@@ -1,0 +1,13 @@
+{
+    "trigger": {
+          "type": "tetra:apply_hit_effects"
+        },
+        "effect": "fengbao",
+        "outcome": {
+        "type": "tetra:apply_effect",
+        "effect": "born_in_chaos_v1:snow_storm",
+        "entity": "attacker",
+        "duration": 200,
+        "amplifier": 0
+      }
+    }

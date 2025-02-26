@@ -1,0 +1,19 @@
+{
+    "replace": true,
+    "slots": [
+        "sword/fuller"
+    ],
+    "materialSlotCount": 1,
+    "displayType": "minor",
+    "glyph": {
+        "textureX": 72,
+        "textureY": 112
+    },
+    "outcomes": [
+        {
+            "materials": [ "tetra:toulu/" ],
+            "moduleKey": "sword/jingguan",
+            "moduleVariant": "jingguan/"
+        }
+    ]
+}

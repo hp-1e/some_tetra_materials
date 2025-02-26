@@ -1,0 +1,24 @@
+{
+    "key": "stormcallers_horn",
+    "category": "misc",
+    "primary": 0,
+    "secondary": 0,
+    "tertiary": 0,
+    "durability": 0,
+    "integrityCost": 1,
+    "integrityGain": 5,
+    "magicCapacity": 1000,
+    "tints": {
+      "glyph": "bone_glyph",
+      "texture": "bone"
+    },
+    "effects":{
+        "fengbao":1
+    },
+    "attributes":{
+      "minecraft:generic.attack_damage":3
+    },
+    "textures": [ "bone", "crude" ],
+    "material": { "items": [ "born_in_chaos_v1:stormcallers_horn" ] },
+    "requiredTools": { "hammer_dig": 4 }
+  }
